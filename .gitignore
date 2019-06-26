@@ -6,3 +6,5 @@ GraphQLExample/obj/
 GraphQLExample\.Models/bin/
 
 GraphQLExample\.Models/obj/
+
+GraphQLExample\.Data/obj/
